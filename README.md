@@ -41,6 +41,18 @@ With this objective, we present RM-RDD, a multi-class road defect dataset that i
                      alt="Typora-Logo"
                      height="300"
                      width="300"/></center></td>
+    <td><center><img src="Pic/Vehicle-mounted Camera.jpg"
+                     alt="Typora-Logo"
+                     height="100"
+                     width="150"/></center></td> 
+    <td><center><img src="Pic/GPS.jpg"
+                     alt="Typora-Logo"
+                     height="100"
+                     width="150"/></center></td> 
+    <td><center><img src="Pic/AI Chip Equipment.jpg"
+                     alt="Typora-Logo"
+                     height="100"
+                     width="150"/></center></td> 
     </tr>
 </table>
 
