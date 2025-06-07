@@ -103,6 +103,7 @@ Table 1. Category Distribution of the RM-RDD Dataset
 
 
 <div class="center">
+	
 |    Road Damage Types     | Label | Training Set | Validation  Set | Testing Set | Total |
 | :----------------------: | :---: | :----------: | :-------------: | :---------: | :---: |
 |         Pothole          |  D00  |     1717     |       521       |     199     | 2437  |
@@ -113,6 +114,7 @@ Table 1. Category Distribution of the RM-RDD Dataset
 |  Transverse Crack Patch  |  D05  |     4893     |       514       |    1005     | 6412  |
 |     Alligator Crack      |  D06  |     1177     |       175       |     129     | 1481  |
 |  Alligator Crack Patch   |  D07  |     1058     |        75       |     171     | 1304  |
+
 </div>
 
 
