@@ -90,7 +90,7 @@ In November 2024, we established the **RM-RDD dataset**. The road defect types s
     </tr>
 </table>
  
-​     <center> Fig. 3. Samples from the RM-RDD dataset. <center>      
+​     <center> Fig. 3. Samples from the RM-RDD dataset. </center>      
 
 
 Table 1. Category Distribution of the RM-RDD Dataset
