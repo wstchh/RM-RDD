@@ -63,7 +63,8 @@ Fig. 2. The components of the engineering data collection vehicle: in-vehicle ca
   
 
 
-The Diversity Advantages of the Dataset：
+The Diversity Advantages of the Dataset：   
+
 **（1）Different Road Environments**  
 
 **（2）Multiple Weather Conditions**  
