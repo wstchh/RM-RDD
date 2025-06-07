@@ -6,19 +6,19 @@ With this objective, we present RM-RDD, a multi-class road defect dataset that i
 
 <table frame=void>
 	<tr>
-    <td><center><img src="C:/Users/1/Desktop/Pic/Sensor-Vehicle-1.jpg"
+    <td><center><img src="Pic/Sensor-Vehicle-1.jpg"
                      alt="Typora-Logo"
                      height="200"
             		 width="300"/></center></td>
-    <td><center><img src="C:/Users/1/Desktop/Pic/Sensor-Vehicle-2.jpg"
+    <td><center><img src="Pic/Sensor-Vehicle-2.jpg"
                      alt="Typora-Logo"
                      height="200"
                      width="300"/></center></td>
-    <td><center><img src="C:/Users/1/Desktop/Pic/Sensor-Vehicle-3.jpg"
+    <td><center><img src="Pic/Sensor-Vehicle-3.jpg"
                      alt="Typora-Logo"
                      height="200"
                      width="300"/></center></td>
-    <td><center><img src="C:/Users/1/Desktop/Pic/Sensor-Vehicle-4.jpg"
+    <td><center><img src="Pic/Sensor-Vehicle-4.jpg"
                      alt="Typora-Logo"
                      height="200"
                      width="300"/></center></td> 
@@ -37,7 +37,7 @@ With this objective, we present RM-RDD, a multi-class road defect dataset that i
 
 <table frame=void>
 	<tr>
-    <td><center><img src="C:/Users/1/Desktop/Pic/Vehicle Deployment.png"
+    <td><center><img src="Pic/Vehicle Deployment.png"
                      alt="Typora-Logo"
                      height="500"
             		 width="500"/></center></td>
@@ -50,15 +50,15 @@ With this objective, we present RM-RDD, a multi-class road defect dataset that i
 
 <table frame=void>
 	<tr>
-    <td><center><img src="C:\Users\1\Desktop\Pic/Vehicle-mounted Camera.jpg"
+    <td><center><img src="Pic/Vehicle-mounted Camera.jpg"
                      alt="Typora-Logo"
                      height="200"
                      width="300"/></center></td> 
-    <td><center><img src="C:\Users\1\Desktop\Pic/GPS.jpg"
+    <td><center><img src="Pic/GPS.jpg"
                      alt="Typora-Logo"
                      height="200"
                      width="300"/></center></td> 
-    <td><center><img src="C:\Users\1\Desktop\Pic/AI Chip Equipment.jpg"
+    <td><center><img src="Pic/AI Chip Equipment.jpg"
                      alt="Typora-Logo"
                      height="200"
                      width="300"/></center></td> 
@@ -77,29 +77,29 @@ With this objective, we present RM-RDD, a multi-class road defect dataset that i
 
 <table frame=void>
 	<tr>
-    <td><center><img src="C:/Users/1/Desktop/Pic/1.jpg"
-                     alt="Typora-Logo"
-                     height="200"
-            		 width="300"/></center></td>
-    <td><center><img src="C:/Users/1/Desktop/Pic/2.jpg"
+    <td><center><img src="Pic/1.jpg"
                      alt="Typora-Logo"
                      height="200"
                      width="300"/></center></td>
-    <td><center><img src="C:/Users/1/Desktop/Pic/3.jpg"
+    <td><center><img src="Pic/2.jpg"
+                     alt="Typora-Logo"
+                     height="200"
+                     width="300"/></center></td>
+    <td><center><img src="Pic/3.jpg"
                      alt="Typora-Logo"
                      height="200"
                      width="300"/></center></td>
     </tr>
     <tr>	<!--第二行-->
-    <td><center><img src="C:/Users/1/Desktop/Pic/4.jpg"
+    <td><center><img src="Pic/4.jpg"
                      alt="Typora-Logo"
                      height="200"
                      width="300"/></center></td> 
-    <td><center><img src="C:/Users/1/Desktop/Pic/5.jpg"
+    <td><center><img src="Pic/5.jpg"
                      alt="Typora-Logo"
                      height="200"
                      width="300"/></center></td> 
-    <td><center><img src="C:/Users/1/Desktop/Pic/6.jpg"
+    <td><center><img src="Pic/6.jpg"
                      alt="Typora-Logo"
                      height="200"
                      width="300"/></center></td> 
