@@ -97,13 +97,8 @@ In November 2024, we established the **RM-RDD dataset**. The road defect types s
 </div>
 
 
-<div align="center">
+
 Table 1. Category Distribution of the RM-RDD Dataset
-</div>
-
-
-
-	
 |    Road Damage Types     | Label | Training Set | Validation  Set | Testing Set | Total |
 | :----------------------: | :---: | :----------: | :-------------: | :---------: | :---: |
 |         Pothole          |  D00  |     1717     |       521       |     199     | 2437  |
@@ -157,12 +152,7 @@ In January 2025, we further improved the RM-RDD dataset by anonymizing its metad
 </div>
 
 
-
-<div align="center">
 Table 2. Category Distribution of the RM-RDD2025 Dataset
-</div>
-
-
 |    Road Damage Types     | Label | Training Set | Validation  Set | Testing Set | Total |
 | :----------------------: | :---: | :----------: | :-------------: | :---------: | :---: |
 |         Pothole          |  D00  |     1717     |       777       |     199     | 2693  |
