@@ -25,8 +25,9 @@ With this objective, we present RM-RDD, a multi-class road defect dataset that i
     </tr>
 </table>
 
-​                                                                               Fig. 1. Engineering data acquisition vehicles equipped with cameras.
-
+<div align="center">​                                                 
+Fig. 1. Engineering data acquisition vehicles equipped with cameras.
+</div>
 
 
 
