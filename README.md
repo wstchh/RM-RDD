@@ -57,8 +57,10 @@ Fig. 1. Engineering data acquisition vehicles equipped with cameras.
 </div>
 
 <div align="center">​ 
-Fig. 2. The components of the engineering data collection vehicle: in-vehicle camera, GPS module, and AI chip.
-</div>	
+Fig. 2. The components of the engineering data collection vehicle: in-vehicle camera, GPS module, and AI chip.   
+</div>	  
+
+
 
   
 
