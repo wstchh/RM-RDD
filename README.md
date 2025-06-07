@@ -60,26 +60,6 @@ With this objective, we present RM-RDD, a multi-class road defect dataset that i
 
 
 
-<table frame=void>
-	<tr>
-    <td><center><img src="Pic/Vehicle-mounted Camera.jpg"
-                     alt="Typora-Logo"
-                     height="100"
-                     width="150"/></center></td> 
-    <td><center><img src="Pic/GPS.jpg"
-                     alt="Typora-Logo"
-                     height="100"
-                     width="150"/></center></td> 
-    <td><center><img src="Pic/AI Chip Equipment.jpg"
-                     alt="Typora-Logo"
-                     height="100"
-                     width="150"/></center></td> 
-    </tr>
-</table>
-
-
-
-
 In November 2024, we established the **RM-RDD dataset**. The road defect types studied in this paper include eight categories: potholes (D00),  subsidence (D01), longitudinal cracks (D02), longitudinal crack patches (D03), transverse cracks (D04), transverse crack patches (D05), alligator cracks (D06), and alligator crack patches (D07). The dataset comprises a total of **10,440** annotated images, partitioned into a **training set (8,119 images)**, a **validation set (1,000 images)**, and a **test set (1,321 images)**. Representative examples of the different road defect types are shown in Fig. 6, and the class distribution is summarized in the following table.
 
 
