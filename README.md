@@ -150,8 +150,6 @@ In January 2025, we further improved the RM-RDD dataset by anonymizing its metad
                      width="300"/></center></td> 
     </tr>
 </table>
-​ 
-
 <div align="center">
   Fig. 4. Samples from the RM-RDD2025 dataset.   
 </div>
