@@ -2,7 +2,7 @@
 
 At present, publicly available datasets for road defect detection are relatively limited, with most providing only precise location annotations of defects, thereby failing to fully represent the real-world conditions of road surfaces. To address this limitation, some researchers have employed in-vehicle cameras, such as dashcams, for data collection, leading to the creation of publicly available datasets such as RDD2020[1] , RDD2022[2] , and N-RDD2024[3] . However, these datasets still exhibit certain shortcomings: the number of annotated defect categories is limited, the captured environments are often simplified or idealized, and there is a lack of diverse and realistic road scenarios. Moreover, in practical applications, image quality can be significantly degraded by various factors, including windshield reflections, glare from direct sunlight, and occlusions caused by the vehicle hood, which further increases the complexity of road defect detection.
 
-With this objective, we present RM-RDD, a multi-class road defect dataset that is closely aligned with real-world vehicle driving scenarios. During the data collection process, real-time images were captured by engineering vehicles equipped with imaging sensors traveling at normal driving speeds (as illustrated in Fig. 5). The collected images cover a wide range of road types, including highways, provincial roads, and urban streets, ensuring both the diversity and reliability of the dataset. The dataset was collected from various road segments across multiple cities in China, under different temporal conditions such as morning and evening rush hours, daytime, and nighttime. It also incorporates a variety of weather conditions, including sunny, rainy, cloudy, and foggy days, as well as diverse lighting environments such as strong direct sunlight, backlighting, and low-light conditions. These factors significantly enhance the realism and complexity of the road defect detection task. Furthermore, the dataset accounts for variations in vehicle speed, camera mounting height, and installation angle, thereby improving its practical applicability. To ensure data privacy and security, sensitive information such as human faces and license plates has been anonymized using appropriate de-identification techniques.
+With this objective, we present RM-RDD, a multi-class road defect dataset that is closely aligned with real-world vehicle driving scenarios. During the data collection process, real-time images were captured by engineering vehicles equipped with imaging sensors traveling at normal driving speeds **(as shown in Fig. 1 and Fig. 2)**. The collected images cover a wide range of road types, including highways, provincial roads, and urban streets, ensuring both the diversity and reliability of the dataset. The dataset was collected from various road segments across multiple cities in China, under different temporal conditions such as morning and evening rush hours, daytime, and nighttime. It also incorporates a variety of weather conditions, including sunny, rainy, cloudy, and foggy days, as well as diverse lighting environments such as strong direct sunlight, backlighting, and low-light conditions. These factors significantly enhance the realism and complexity of the road defect detection task. Furthermore, the dataset accounts for variations in vehicle speed, camera mounting height, and installation angle, thereby improving its practical applicability. To ensure data privacy and security, sensitive information such as human faces and license plates has been anonymized using appropriate de-identification techniques.
 
 <table frame=void>
 	<tr>
@@ -25,11 +25,7 @@ With this objective, we present RM-RDD, a multi-class road defect dataset that i
     </tr>
 </table>
 
-​                                                                               Fig. 6. Samples from the RM-RDD datase
-
-
-
-
+​                                                                               Fig. 1. Engineering data acquisition vehicles equipped with cameras.
 
 
 
