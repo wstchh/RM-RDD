@@ -168,12 +168,15 @@ In January 2025, we further improved the RM-RDD dataset by anonymizing its metad
 
 
 ## 🚀 Updates
-- \[2024.11.28\] Add torch tool for parameters and flops statistics. see [run_profile.py](./rtdetrv2_pytorch/tools/run_profile.py)
-- \[2025.11.28\] Add torch tool for parameters and flops statistics. see [run_profile.py](./rtdetrv2_pytorch/tools/run_profile.py)
-- \[2024.11.28\] Add torch tool for parameters and flops statistics. see [run_profile.py](./rtdetrv2_pytorch/tools/run_profile.py)
+- \[2025.01\] Performed key information anonymization on the RM-RDD dataset and created the RM-RDD2025 dataset.
+- \[2024.11\] Created the RM-RDD dataset.
 
 
 
 
 
-## 🦄 Performance
+## 🦄 References
+[1] Arya D, Maeda H, Ghosh S K, et al. RDD2020: An annotated image dataset for automatic road damage detection using deep learning[J]. Data in brief, 2021, 36: 107133.
+[2] Arya D, Maeda H, Ghosh S K, et al. RDD2022: A multi‐national image dataset for automatic road damage detection[J]. Geoscience Data Journal, 2024, 11(4): 846-862.
+[3] KAYA Ö, Çodur M Y. Annotated Dataset for Detecting Road Damage and Defects: N-Rdd2024[J]. Available at SSRN 4699394.
+
