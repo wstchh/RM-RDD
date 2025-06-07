@@ -30,28 +30,29 @@ Fig. 1. Engineering data acquisition vehicles equipped with cameras.
 </div>
 
 
+<div align="center">​ 
+	<table frame=void>
+		<tr>
+	    <td><center><img src="Pic/Vehicle Deployment.png"
+	                     alt="Typora-Logo"
+	                     height="300"
+	                     width="300"/></center></td>
+	    <td><center><img src="Pic/Vehicle-mounted Camera.jpg"
+	                     alt="Typora-Logo"
+	                     height="100"
+	                     width="150"/></center></td> 
+	    <td><center><img src="Pic/GPS.jpg"
+	                     alt="Typora-Logo"
+	                     height="100"
+	                     width="150"/></center></td> 
+	    <td><center><img src="Pic/AI Chip Equipment.jpg"
+	                     alt="Typora-Logo"
+	                     height="100"
+	                     width="150"/></center></td> 
+	    </tr>
+	</table>
+</div>
 
-
-<table frame=void>
-	<tr>
-    <td><center><img src="Pic/Vehicle Deployment.png"
-                     alt="Typora-Logo"
-                     height="300"
-                     width="300"/></center></td>
-    <td><center><img src="Pic/Vehicle-mounted Camera.jpg"
-                     alt="Typora-Logo"
-                     height="100"
-                     width="150"/></center></td> 
-    <td><center><img src="Pic/GPS.jpg"
-                     alt="Typora-Logo"
-                     height="100"
-                     width="150"/></center></td> 
-    <td><center><img src="Pic/AI Chip Equipment.jpg"
-                     alt="Typora-Logo"
-                     height="100"
-                     width="150"/></center></td> 
-    </tr>
-</table>
 
 Fig. 2. The components of the engineering data collection vehicle: in-vehicle camera, GPS module, and AI chip.
 
