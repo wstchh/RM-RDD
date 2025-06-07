@@ -99,8 +99,9 @@ In November 2024, we established the **RM-RDD dataset**. The road defect types s
 </div>
 
 
-
+<div align="center">
 Table 1. Category Distribution of the RM-RDD Dataset
+</div>
 
 <div align="center">
 	
@@ -157,8 +158,12 @@ In January 2025, we further improved the RM-RDD dataset by anonymizing its metad
   Fig. 4. Samples from the RM-RDD2025 dataset.   
 </div>
 
-
+<div align="center">
 Table 2. Category Distribution of the RM-RDD2025 Dataset
+​</div>
+
+<div align="center">
+	
 |    Road Damage Types     | Label | Training Set | Validation  Set | Testing Set | Total |
 | :----------------------: | :---: | :----------: | :-------------: | :---------: | :---: |
 |         Pothole          |  D00  |     1717     |       777       |     199     | 2693  |
@@ -170,7 +175,7 @@ Table 2. Category Distribution of the RM-RDD2025 Dataset
 |     Alligator Crack      |  D06  |     1177     |       247       |     129     | 1553  |
 |  Alligator Crack Patch   |  D07  |     1058     |       101       |     171     | 1330  |
 
-​																
+​</div>																
 
 
 
