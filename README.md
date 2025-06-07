@@ -65,29 +65,29 @@ In November 2024, we established the **RM-RDD dataset**. The road defect types s
 
 <table frame=void>
 	<tr>
-    <td><center><img src="Pic/1.jpg"
+    <td><center><img src="Pic/RM-RDD-1.jpg"
                      alt="Typora-Logo"
                      height="200"
                      width="300"/></center></td>
-    <td><center><img src="Pic/2.jpg"
+    <td><center><img src="Pic/RM-RDD-2.jpg"
                      alt="Typora-Logo"
                      height="200"
                      width="300"/></center></td>
-    <td><center><img src="Pic/3.jpg"
+    <td><center><img src="Pic/RM-RDD-3.jpg"
                      alt="Typora-Logo"
                      height="200"
                      width="300"/></center></td>
     </tr>
     <tr>	<!--第二行-->
-    <td><center><img src="Pic/4.jpg"
+    <td><center><img src="Pic/RM-RDD-4.jpg"
                      alt="Typora-Logo"
                      height="200"
                      width="300"/></center></td> 
-    <td><center><img src="Pic/5.jpg"
+    <td><center><img src="Pic/RM-RDD-5.jpg"
                      alt="Typora-Logo"
                      height="200"
                      width="300"/></center></td> 
-    <td><center><img src="Pic/6.jpg"
+    <td><center><img src="Pic/RM-RDD-6.jpg"
                      alt="Typora-Logo"
                      height="200"
                      width="300"/></center></td> 
