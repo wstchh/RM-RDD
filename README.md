@@ -25,7 +25,7 @@ With this objective, we present RM-RDD, a multi-class road defect dataset that i
     </tr>
 </table>
 
-​                                                                                                          Fig. 6. Samples from the RM-RDD datase
+​                                                                               Fig. 6. Samples from the RM-RDD datase
 
 
 
@@ -107,6 +107,21 @@ With this objective, we present RM-RDD, a multi-class road defect dataset that i
 </table>
 
 
+
+
+
+​                                                                                              Category Distribution of the RM-RDD Dataset
+
+|    Road Damage Types     | Label | Training Set | Validation  Set | Testing Set | Total |
+| :----------------------: | :---: | :----------: | :-------------: | :---------: | :---: |
+|         Pothole          |  D00  |     1717     |       521       |     199     | 2437  |
+|        Subsidence        |  D01  |     1229     |       49        |     282     | 1560  |
+|    Longitudinal Crack    |  D02  |     2822     |       418       |     401     | 3641  |
+| Longitudinal Crack Patch |  D03  |     4144     |       473       |     843     | 5460  |
+|     Transverse Crack     |  D04  |     2478     |       315       |     328     | 3121  |
+|  Transverse Crack Patch  |  D05  |     4893     |       514       |    1005     | 6412  |
+|     Alligator Crack      |  D06  |     1177     |       175       |     129     | 1481  |
+|  Alligator Crack Patch   |  D07  |     1058     |        75       |     171     | 1304  |
 
 ​                                                                                              Category Distribution of the RM-RDD2025 Dataset
 
