@@ -73,20 +73,24 @@ The Diversity Advantages of the Dataset：
 	<tr>
     <td><center><img src="Pic/1-1.jpg"
                      alt="Typora-Logo"
-                     height="200"
-            		 width="300"/></center></td>
+                     height="100"
+            		 width="150"/></center></td>
     <td><center><img src="Pic/1-2.jpg"
                      alt="Typora-Logo"
-                     height="200"
-                     width="300"/></center></td>
+                     height="100"
+                     width="150"/></center></td>
     <td><center><img src="Pic/1-3.jpg"
                      alt="Typora-Logo"
-                     height="200"
-                     width="300"/></center></td>
+                     height="100"
+                     width="150"/></center></td>
     <td><center><img src="Pic/1-4.jpg"
                      alt="Typora-Logo"
-                     height="200"
-                     width="300"/></center></td> 
+                     height="100"
+                     width="150"/></center></td> 
+    <td><center><img src="Pic/1-5.jpg"
+                     alt="Typora-Logo"
+                     height="100"
+                     width="150"/></center></td> 
     </tr>
 </table>
 
