@@ -64,10 +64,14 @@ Fig. 2. The components of the engineering data collection vehicle: in-vehicle ca
 
 
 The Diversity Advantages of the Dataset：
-**（1）Different Road Environments**
-**（2）Multiple Weather Conditions**
-**（3）Varied Lighting Environments**
-**（4）Variations in Camera Mounting Height and Installation Angle**
+**（1）Different Road Environments**  
+
+**（2）Multiple Weather Conditions**  
+
+**（3）Varied Lighting Environments**  
+
+**（4）Variations in Camera Mounting Height and Installation Angle**  
+
 
 
 In November 2024, we established the **RM-RDD dataset**. The road defect types studied in this paper include eight categories: potholes (D00),  subsidence (D01), longitudinal cracks (D02), longitudinal crack patches (D03), transverse cracks (D04), transverse crack patches (D05), alligator cracks (D06), and alligator crack patches (D07). The dataset comprises a total of **10,440** annotated images, partitioned into a **training set (8,119 images)**, a **validation set (1,000 images)**, and a **test set (1,321 images)**. Representative examples of the different road defect types are shown in **Fig. 3**, and the class distribution is summarized in the following **Table 1**.
