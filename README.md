@@ -56,7 +56,7 @@ Fig. 2. The components of the engineering data collection vehicle: in-vehicle ca
 
 
 
-In November 2024, we established the **RM-RDD dataset**. The road defect types studied in this paper include eight categories: potholes (D00),  subsidence (D01), longitudinal cracks (D02), longitudinal crack patches (D03), transverse cracks (D04), transverse crack patches (D05), alligator cracks (D06), and alligator crack patches (D07). The dataset comprises a total of **10,440** annotated images, partitioned into a **training set (8,119 images)**, a **validation set (1,000 images)**, and a **test set (1,321 images)**. Representative examples of the different road defect types are shown in Fig. 6, and the class distribution is summarized in the following table.
+In November 2024, we established the **RM-RDD dataset**. The road defect types studied in this paper include eight categories: potholes (D00),  subsidence (D01), longitudinal cracks (D02), longitudinal crack patches (D03), transverse cracks (D04), transverse crack patches (D05), alligator cracks (D06), and alligator crack patches (D07). The dataset comprises a total of **10,440** annotated images, partitioned into a **training set (8,119 images)**, a **validation set (1,000 images)**, and a **test set (1,321 images)**. Representative examples of the different road defect types are shown in **Fig. 3**, and the class distribution is summarized in the following **Table 1**.
 
 
 <table frame=void>
@@ -90,7 +90,10 @@ In November 2024, we established the **RM-RDD dataset**. The road defect types s
     </tr>
 </table>
  
-​                                                                  Category Distribution of the RM-RDD Dataset
+​     Fig. 3. Samples from the RM-RDD dataset.       
+
+
+Table 1. Category Distribution of the RM-RDD Dataset
 
 |    Road Damage Types     | Label | Training Set | Validation  Set | Testing Set | Total |
 | :----------------------: | :---: | :----------: | :-------------: | :---------: | :---: |
@@ -104,7 +107,7 @@ In November 2024, we established the **RM-RDD dataset**. The road defect types s
 |  Alligator Crack Patch   |  D07  |     1058     |        75       |     171     | 1304  |
 
 
-In January 2025, we further improved the RM-RDD dataset by anonymizing its metadata, including GPS coordinates, vehicle speed, capture timestamps, and vehicle identifiers. In addition, we enriched the validation set by adding 500 newly annotated samples, aiming to enhance model robustness during training and improve generalization for real-world deployment. Based on these enhancements, we introduce the **RDD2025 dataset**, which comprises a total of **10,940** annotated images. These images are partitioned into a **training set (8,119 images)**, a **validation set (1,500 images)**, and a **test set (1,321 images)**. Representative examples of the various road defect types are shown in Fig. 6, and the detailed class distribution is summarized in the following table.
+In January 2025, we further improved the RM-RDD dataset by anonymizing its metadata, including GPS coordinates, vehicle speed, capture timestamps, and vehicle identifiers. In addition, we enriched the validation set by adding 500 newly annotated samples, aiming to enhance model robustness during training and improve generalization for real-world deployment. Based on these enhancements, we introduce the **RDD2025 dataset**, which comprises a total of **10,940** annotated images. These images are partitioned into a **training set (8,119 images)**, a **validation set (1,500 images)**, and a **test set (1,321 images)**. Representative examples of the various road defect types are shown in **Fig. 4**, and the detailed class distribution is summarized in the following **Table 2**.
 
 
 
@@ -138,7 +141,10 @@ In January 2025, we further improved the RM-RDD dataset by anonymizing its metad
                      width="300"/></center></td> 
     </tr>
 </table>
-​                                                                                              Category Distribution of the RM-RDD2025 Dataset
+​ 
+  Fig. 4. Samples from the RM-RDD2025 dataset.   
+
+Table 2. Category Distribution of the RM-RDD2025 Dataset
 
 |    Road Damage Types     | Label | Training Set | Validation  Set | Testing Set | Total |
 | :----------------------: | :---: | :----------: | :-------------: | :---------: | :---: |
