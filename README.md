@@ -39,8 +39,8 @@ With this objective, we present RM-RDD, a multi-class road defect dataset that i
 	<tr>
     <td><center><img src="Pic/Vehicle Deployment.png"
                      alt="Typora-Logo"
-                     height="500"
-            		 width="500"/></center></td>
+                     height="300"
+                     width="300"/></center></td>
     </tr>
 </table>
 
@@ -52,16 +52,16 @@ With this objective, we present RM-RDD, a multi-class road defect dataset that i
 	<tr>
     <td><center><img src="Pic/Vehicle-mounted Camera.jpg"
                      alt="Typora-Logo"
-                     height="200"
-                     width="300"/></center></td> 
+                     height="100"
+                     width="150"/></center></td> 
     <td><center><img src="Pic/GPS.jpg"
                      alt="Typora-Logo"
-                     height="200"
-                     width="300"/></center></td> 
+                     height="100"
+                     width="150"/></center></td> 
     <td><center><img src="Pic/AI Chip Equipment.jpg"
                      alt="Typora-Logo"
-                     height="200"
-                     width="300"/></center></td> 
+                     height="100"
+                     width="150"/></center></td> 
     </tr>
 </table>
 
@@ -177,6 +177,8 @@ In January 2025, we further improved the RM-RDD dataset by anonymizing its metad
 
 ## 🦄 References
 [1] Arya D, Maeda H, Ghosh S K, et al. RDD2020: An annotated image dataset for automatic road damage detection using deep learning[J]. Data in brief, 2021, 36: 107133.
+
 [2] Arya D, Maeda H, Ghosh S K, et al. RDD2022: A multi‐national image dataset for automatic road damage detection[J]. Geoscience Data Journal, 2024, 11(4): 846-862.
+
 [3] KAYA Ö, Çodur M Y. Annotated Dataset for Detecting Road Damage and Defects: N-Rdd2024[J]. Available at SSRN 4699394.
 
