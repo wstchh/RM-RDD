@@ -7,7 +7,9 @@ At present, publicly available datasets for road defect detection are relatively
 With this objective, we present RM-RDD, a multi-class road defect dataset that is closely aligned with real-world vehicle driving scenarios. During the data collection process, real-time images were captured by engineering vehicles equipped with imaging sensors traveling at normal driving speeds (as illustrated in Fig. 5). The collected images cover a wide range of road types, including highways, provincial roads, and urban streets, ensuring both the diversity and reliability of the dataset. The dataset was collected from various road segments across multiple cities in China, under different temporal conditions such as morning and evening rush hours, daytime, and nighttime. It also incorporates a variety of weather conditions, including sunny, rainy, cloudy, and foggy days, as well as diverse lighting environments such as strong direct sunlight, backlighting, and low-light conditions. These factors significantly enhance the realism and complexity of the road defect detection task. Furthermore, the dataset accounts for variations in vehicle speed, camera mounting height, and installation angle, thereby improving its practical applicability. To ensure data privacy and security, sensitive information such as human faces and license plates has been anonymized using appropriate de-identification techniques.
 
 ![Engineering data acquisition vehicles equipped with cameras1](Pic/采集车1.jpg)
-
+![Engineering data acquisition vehicles equipped with cameras2](Pic/采集车2.jpg)
+![Engineering data acquisition vehicles equipped with cameras3](Pic/采集车3.jpg)
+![Engineering data acquisition vehicles equipped with cameras4](Pic/采集车4.jpg)
 The road defect types investigated in this study include eight categories: potholes (D00), subsidence (D01), longitudinal cracks (D02), longitudinal crack patches (D03), transverse cracks (D04), transverse crack patches (D05), alligator cracks (D06), and alligator crack patches (D07).The dataset contains a total of 10,440 annotated images, divided into a training set (8,119 images), a validation set (1,000 images), and a test set (1,321 images). 
 
 
