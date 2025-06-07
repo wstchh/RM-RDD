@@ -52,7 +52,7 @@ With this objective, we present RM-RDD, a multi-class road defect dataset that i
     </tr>
 </table>
 
-
+Fig. 2. The components of the engineering data collection vehicle: in-vehicle camera, GPS module, and AI chip.
 
 
 
