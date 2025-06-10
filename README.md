@@ -55,7 +55,7 @@ Fig. 1. Engineering data acquisition vehicles equipped with cameras.
            <td><center><img src="Camera module specifications.jpg"
 		     alt="Typora-Logo"
 		     height="300"
-		     width="500"/></center></td> 
+		     width="400"/></center></td> 
 	    </tr>
 	</table>
 </div>
