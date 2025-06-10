@@ -64,7 +64,7 @@ Fig. 2. The components of the engineering data collection vehicle: in-vehicle ca
 
 
 <div align="center">
-    <img src="Image-metadata.jpg" width="300">
+    <img src="Image-metadata.jpg" width="500">
 </div>
 
 
