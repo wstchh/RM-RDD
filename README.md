@@ -50,12 +50,12 @@ Fig. 1. Engineering data acquisition vehicles equipped with cameras.
 	                     width="150"/></center></td> 
 	    <td><center><img src="Pic/AI Chip Equipment.jpg"
 	                     alt="Typora-Logo"
-	                     height="200"
-	                     width="300"/></center></td> 
+	                     height="100"
+	                     width="150"/></center></td> 
            <td><center><img src="Camera module specifications.jpg"
 		     alt="Typora-Logo"
-		     height="100"
-		     width="150"/></center></td> 
+		     height="200"
+		     width="300"/></center></td> 
 	    </tr>
 	</table>
 </div>
