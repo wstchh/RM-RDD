@@ -61,11 +61,11 @@ Fig. 2. The components of the engineering data collection vehicle: in-vehicle ca
 </div>	  
 
 
-<div style="text-align: center;">
-  <img src="Image-metadata.jpg" alt="Centered Image" 
-       style="width:300px; height:auto; display:inline-block;" />
-</div>
 
+
+<div align="center">
+    <img src="Image-metadata.jpg" width="300">
+</div>
 
 
 The Diversity Advantages of the Dataset：   
