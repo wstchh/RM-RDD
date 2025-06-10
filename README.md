@@ -39,7 +39,7 @@ Fig. 1. Engineering data acquisition vehicles equipped with cameras.
 	    <td><center><img src="Pic/Vehicle Deployment.png"
 	                     alt="Typora-Logo"
 	                     height="300"
-	                     width="300"/></center></td>
+	                     width="400"/></center></td>
 	    <td><center><img src="Pic/Vehicle-mounted Camera.jpg"
 	                     alt="Typora-Logo"
 	                     height="100"
