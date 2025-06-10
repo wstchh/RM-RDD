@@ -61,14 +61,10 @@ Fig. 2. The components of the engineering data collection vehicle: in-vehicle ca
 </div>	  
 
 
-<table frame=void>
-    <tr>
-    <td><center><img src="Image-metadata.jpg"
-                     alt="Typora-Logo"
-                     height="200"
-            	     width="300"/></center></td>
-    </tr>
-</table>
+
+<div style="text-align: center;">
+  <img src="Image-metadata.jpg" alt="Centered Image" />
+</div>
 
   
 
