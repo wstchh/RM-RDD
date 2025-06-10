@@ -62,10 +62,17 @@ Fig. 2. The components of the engineering data collection vehicle: in-vehicle ca
 
 
 
+The metadata accompanying the dataset includes key information such as the vehicle ID from which each image was captured, the timestamp, vehicle speed, and precise GPS coordinates, all of which support further analysis and application(**as shown in Fig.3**).
 
 <div align="center">
     <img src="Image-metadata.jpg" width="500">
 </div>
+
+
+<div align="center">​ 
+Fig. 3. Image metadata.   
+</div>	  
+
 
 
 The Diversity Advantages of the Dataset：   
@@ -160,7 +167,7 @@ The Diversity Advantages of the Dataset：
 </table>
 
 
-In November 2024, we established the **RM-RDD dataset**. The road defect types studied in this paper include eight categories: potholes (D00),  subsidence (D01), longitudinal cracks (D02), longitudinal crack patches (D03), transverse cracks (D04), transverse crack patches (D05), alligator cracks (D06), and alligator crack patches (D07). The dataset comprises a total of **10,440** annotated images, partitioned into a **training set (8,119 images)**, a **validation set (1,000 images)**, and a **test set (1,321 images)**. Representative examples of the different road defect types are shown in **Fig. 3**, and the class distribution is summarized in the following **Table 1**.
+In November 2024, we established the **RM-RDD dataset**. The road defect types studied in this paper include eight categories: potholes (D00),  subsidence (D01), longitudinal cracks (D02), longitudinal crack patches (D03), transverse cracks (D04), transverse crack patches (D05), alligator cracks (D06), and alligator crack patches (D07). The dataset comprises a total of **10,440** annotated images, partitioned into a **training set (8,119 images)**, a **validation set (1,000 images)**, and a **test set (1,321 images)**. Representative examples of the different road defect types are shown in **Fig. 4**, and the class distribution is summarized in the following **Table 1**.
 
 
 <table frame=void>
@@ -195,7 +202,7 @@ In November 2024, we established the **RM-RDD dataset**. The road defect types s
 </table>
 
 <div align="center">
-  Fig. 3. Samples from the RM-RDD dataset.
+  Fig. 4. Samples from the RM-RDD dataset.
 </div>
 
 
