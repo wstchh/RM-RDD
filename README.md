@@ -270,12 +270,12 @@ In January 2025, we further improved the RM-RDD dataset by anonymizing its metad
     </tr>
 </table>
 <div align="center">
-  Fig. 4. Samples from the RM-RDD2025 dataset.   
+  Fig. 4. Samples from the SM-RDD dataset.   
 </div>
 
 
 <div align="center">
-Table 2. Category Distribution of the RM-RDD2025 Dataset
+Table 2. Category Distribution of the SM-RDD Dataset
 ​</div>
 
 
@@ -310,5 +310,6 @@ Table 2. Category Distribution of the RM-RDD2025 Dataset
 [2] Arya D, Maeda H, Ghosh S K, et al. RDD2022: A multi‐national image dataset for automatic road damage detection[J]. Geoscience Data Journal, 2024, 11(4): 846-862.
 
 [3] KAYA Ö, Çodur M Y. Annotated Dataset for Detecting Road Damage and Defects: N-Rdd2024[J]. Available at SSRN 4699394.
+
 
 
