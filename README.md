@@ -235,7 +235,7 @@ Table 1. Category Distribution of the RM-RDD Dataset
 
 
 
-In January 2025, we further improved the RM-RDD dataset by anonymizing its metadata, including GPS coordinates, vehicle speed, capture timestamps, and vehicle identifiers. In addition, we enriched the validation set by adding 500 newly annotated samples, aiming to enhance model robustness during training and improve generalization for real-world deployment. Based on these enhancements,  we introduce the **RM-RDDv2 (SM-RDD)** dataset, which comprises a total of **10,940** annotated images. These images are partitioned into a **training set (8,119 images)**, a **validation set (1,500 images)**, and a **test set (1,321 images)**. Representative examples of the various road defect types are shown in **Fig. 4**, and the detailed class distribution is summarized in the following **Table 2**.
+In January 2025, we further improved the RM-RDD dataset by anonymizing its metadata, including GPS coordinates, vehicle speed, capture timestamps, and vehicle identifiers. In addition, we enriched the validation set by adding 500 newly annotated samples, aiming to enhance model robustness during training and improve generalization for real-world deployment. Based on these enhancements,  we introduce the **RM-RDDv2 (SM-RDD) dataset**, which comprises a total of **10,940** annotated images. These images are partitioned into a **training set (8,119 images)**, a **validation set (1,500 images)**, and a **test set (1,321 images)**. Representative examples of the various road defect types are shown in **Fig. 4**, and the detailed class distribution is summarized in the following **Table 2**.
 
 
 
@@ -312,6 +312,7 @@ Table 2. Category Distribution of the SM-RDD Dataset
 [2] Arya D, Maeda H, Ghosh S K, et al. RDD2022: A multi‐national image dataset for automatic road damage detection[J]. Geoscience Data Journal, 2024, 11(4): 846-862.
 
 [3] KAYA Ö, Çodur M Y. Annotated Dataset for Detecting Road Damage and Defects: N-Rdd2024[J]. Available at SSRN 4699394.
+
 
 
 
