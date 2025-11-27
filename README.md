@@ -298,7 +298,7 @@ Table 2. Category Distribution of the SM-RDD Dataset
 
 
 ## 🚀 Updates
-- \[2025.11\] Congratulations! Our paper titled ** "YOLO-RD: Road Defect Detection with Context-Aware Attention and Balanced Loss" ** has been accepted by the journal *Neurocomputing*.
+- \[2025.11\] Congratulations! Our paper titled **YOLO-RD: Road Defect Detection with Context-Aware Attention and Balanced Loss** has been accepted by the journal *Neurocomputing*.
 - \[2025.01\] Performed key information anonymization on the RM-RDD dataset and created the SM-RDD dataset.
 - \[2024.11\] Created the RM-RDD dataset.
 
@@ -312,6 +312,7 @@ Table 2. Category Distribution of the SM-RDD Dataset
 [2] Arya D, Maeda H, Ghosh S K, et al. RDD2022: A multi‐national image dataset for automatic road damage detection[J]. Geoscience Data Journal, 2024, 11(4): 846-862.
 
 [3] KAYA Ö, Çodur M Y. Annotated Dataset for Detecting Road Damage and Defects: N-Rdd2024[J]. Available at SSRN 4699394.
+
 
 
 
